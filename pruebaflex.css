@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-size: 1.5rem;
+}
+
+html {
+  background: #b3b3b3;
+  padding: 5px;
+}
+
+body {
+  background: #b3b3b3;
+  padding: 5px;
+  margin: 0;
+}
